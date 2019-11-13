@@ -1,7 +1,7 @@
 <h1>Formulario Personal</h1>
 <html>
 <head>
-<title>Formulario de prueba de HTML5</title>
+<title>Formulario de Prueba de HTML5</title>
 </head>
 <body>
 
