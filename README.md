@@ -1,4 +1,4 @@
-<h1>Formulario personal</h1>
+<h1>Formulario Personal</h1>
 <html>
 <head>
 <title>Formulario de prueba de HTML5</title>
